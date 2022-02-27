@@ -1,0 +1,13 @@
+Hi, this is a step by step guid how to navigate through this repository.
+
+1. Read the "Shoe Billing Documentation.docx" file to get an idea on what we are working on
+2. Run "pip install mysql-connector-python" in you CMD
+3. Run the "create_database.py" file first, it will create a database and few important tables
+4. Run the "main.py" file to run the Main software
+
+That's it from our side
+
+Participents-
+1. Rajarshi Mondal
+2. Samyadip Polley
+3. Debanjan Jana
